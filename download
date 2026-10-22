@@ -1,0 +1,15 @@
+# Variáveis de ambiente (NUNCA suba sua chave de API para o GitHub!)
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos de save locais
+historico_rpg.txt
